@@ -1,0 +1,145 @@
+{
+  "status": "success",
+  "result": [
+    {
+      "id": 1001,
+      "type": "guest-to-host",
+      "channel": "hostaway",
+      "status": "published",
+      "rating": 9.2,
+      "publicReview": "Great location and very clean apartment. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "location",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2024-11-02 10:45:14",
+      "guestName": "Alex Gomez",
+      "listingId": 101,
+      "listingName": "Shoreditch Heights - A1"
+    },
+    {
+      "id": 1002,
+      "type": "guest-to-host",
+      "channel": "hostaway",
+      "status": "published",
+      "rating": 7.8,
+      "publicReview": "Nice flat but street was noisy at night.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        },
+        {
+          "category": "noise",
+          "rating": 6
+        }
+      ],
+      "submittedAt": "2025-01-15 18:12:09",
+      "guestName": "Priya Sharma",
+      "listingId": 101,
+      "listingName": "Shoreditch Heights - A1"
+    },
+    {
+      "id": 1003,
+      "type": "host-to-guest",
+      "channel": "hostaway",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Priya was a respectful guest and left the place tidy.",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2025-01-16 10:01:01",
+      "guestName": "Host Team",
+      "listingId": 101,
+      "listingName": "Shoreditch Heights - A1"
+    },
+    {
+      "id": 1004,
+      "type": "guest-to-host",
+      "channel": "google",
+      "status": "published",
+      "rating": 8.6,
+      "publicReview": "Loved the neighborhood. Wi\u2011Fi could be more stable.",
+      "reviewCategory": [
+        {
+          "category": "location",
+          "rating": 10
+        },
+        {
+          "category": "wifi",
+          "rating": 6
+        }
+      ],
+      "submittedAt": "2025-03-09 09:00:00",
+      "guestName": "Samir Khan",
+      "listingId": 202,
+      "listingName": "Canary Wharf \u2013 Dockside Suite"
+    },
+    {
+      "id": 1005,
+      "type": "guest-to-host",
+      "channel": "hostaway",
+      "status": "published",
+      "rating": 9.5,
+      "publicReview": "Fantastic stay. Hosts were super responsive.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2025-06-20 12:30:00",
+      "guestName": "Emily Chen",
+      "listingId": 202,
+      "listingName": "Canary Wharf \u2013 Dockside Suite"
+    },
+    {
+      "id": 1006,
+      "type": "guest-to-host",
+      "channel": "hostaway",
+      "status": "published",
+      "rating": 6.9,
+      "publicReview": "Place was okay, but the bathroom needed better cleaning.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 5
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2025-07-05 14:25:00",
+      "guestName": "Jordan Smith",
+      "listingId": 303,
+      "listingName": "King\u2019s Cross Loft \u2013 B2"
+    }
+  ]
+}
